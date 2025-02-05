@@ -1,0 +1,61 @@
+#div1{
+    border: 1px dotted white;
+    
+
+    
+    
+}
+body{
+background-image: url(new-cars-barcelona-catalonia-spain-EHXJXY.jpg);
+background-size: cover ;
+
+}
+.bg{
+    background-image: url(honda\ acoord.jpg);
+    border: 2px solid black;
+}
+.tb{
+    margin: 20px;
+    background-color: white;
+    border: 5px solid black;
+    opacity: 0.6;
+
+}
+p{
+    margin: 5%;
+    font-weight: bold;
+    color: black;
+}
+.bh{
+    background-image: url(Cars\ lambogini.jpg);
+    border: 5px solid black;
+}
+.th{
+    margin: 30px;
+    background-color: white;
+    border: 5px dotted black;
+    opacity: 0.6;
+
+}
+p{
+    margin: 5%;
+    font-weight: bold;
+    color: black;
+}
+.ba{
+    background-image: url(Cars\ lambogini.jpg);
+    border: 5px solid black;
+}
+.ta{
+    margin: 30px;
+    background-color: white;
+    border: 5px double black;
+    opacity: 0.6;
+
+}
+p{
+    margin: 5%;
+    font-weight: bold;
+    color: black;
+}
+
